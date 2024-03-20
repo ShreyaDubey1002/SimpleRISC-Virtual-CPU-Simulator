@@ -1,0 +1,1 @@
+The project features a C++ virtual CPU simulator tailored for processing Simple RISC assembly language instructions across five processor stages. Pipelining has been integrated to replicate the performance of pipelined processors.
